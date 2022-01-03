@@ -3,6 +3,6 @@
 *-java(oop)
 *-full-stack web development 
 - 📫 How to reach me :-
-*-anton202wahhab@gmail.com
+*-anton2wahhab@gmail.com
 
 
